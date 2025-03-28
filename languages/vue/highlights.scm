@@ -10,6 +10,4 @@
 (directive_name) @keyword
 (directive_argument) @constant
 
-(start_tag) @tag
-(end_tag) @tag
-(self_closing_tag) @tag
+(tag_name) @tag
